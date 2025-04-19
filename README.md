@@ -1,4 +1,4 @@
-# ShopEasy - E-Commerce Website
+# Thilakawardhana - E-Commerce Website
 
 Thialakawardhana is a fully functional e-commerce website which sells all kind of products ranging from electronics to clothing built with HTML, CSS, JavaScript, and PHP. It includes both customer-facing shopping functionality and an admin panel for managing products, categories, users, and orders.
 

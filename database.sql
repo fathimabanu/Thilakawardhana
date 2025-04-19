@@ -206,12 +206,12 @@ WHERE id IN (1, 3, 6, 7);
 -- Insert some settings
 INSERT INTO settings (setting_key, setting_value)
 VALUES 
-('site_name', 'ShopEasy'),
+('site_name', 'Thilakawardhana'),
 ('site_description', 'Your one-stop shop for all your needs'),
-('currency', 'USD'),
+('currency', 'LKR'),
 ('tax_rate', '7.5'),
 ('shipping_rate', '10'),
 ('free_shipping_threshold', '100'),
-('contact_email', 'contact@shopeasy.com'),
-('contact_phone', '+1 234 567 890'),
-('contact_address', '123 Main Street, City, Country'); 
+('contact_email', 'online@thilakawardhana.com'),
+('contact_phone', '0112 910 512'),
+('contact_address', 'No 76, 1 Kandy Rd, Kiribathgoda 11600'); 
